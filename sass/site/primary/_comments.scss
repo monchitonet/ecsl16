@@ -1,0 +1,19 @@
+.comment-content a {
+	word-wrap: break-word;
+}
+.bypostauthor {
+	display: block;
+}
+
+.comment-form-author input,
+.comment-form-email input,
+.comment-form-url input {
+    clear: both;
+    display: block;
+}
+
+@media screen and (max-width: 800px) {
+	.comments-area .column-6 {
+		width: 100%;
+	}
+}

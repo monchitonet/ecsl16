@@ -1,0 +1,39 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	border: none;
+	border-radius: 0;
+	box-shadow: none;
+	text-shadow: none;
+	background: $color__background-button;
+	color: rgba(0, 0, 0, .8);
+	@include font-size(0.75);
+	line-height: 1;
+	padding: .6em 1em .4em;
+
+	&:hover {
+		box-shadow: none;
+		text-shadow: none;
+	}
+
+	&:active,
+	&:focus {
+		box-shadow: none;
+		text-shadow: none;
+	}
+}
+
+input.wpcf7-submit {
+    background: #111;
+    color: #FFF;
+    font-size: 1rem;
+    font-weight: 900;
+    padding: 0.75em 1.25em;
+    border: #111 2px solid;
+	
+	&:hover {
+		background: #FFF;
+		color: #111;
+	}
+}

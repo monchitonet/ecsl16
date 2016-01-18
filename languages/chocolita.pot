@@ -1,0 +1,280 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Chocolita 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-01-12 21:58-0600\n"
+"PO-Revision-Date: 2016-01-12 21:58-0600\n"
+"Last-Translator: leogg <leo.telsen@gmail.com>\n"
+"Language-Team: Monchito <hola@monchito.net>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../Chocolita/404.php:16
+msgid "Error 404 - 'La sapa' is utterly confused"
+msgstr ""
+
+#: ../Chocolita/404.php:18
+msgid "We couldn't find the page you were looking for"
+msgstr ""
+
+#: ../Chocolita/404.php:19
+msgid "Maybe you should return to the"
+msgstr ""
+
+#: ../Chocolita/404.php:19
+msgid "Home Page"
+msgstr ""
+
+# @ _s
+#: ../Chocolita/comments.php:40 ../Chocolita/comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: ../Chocolita/comments.php:43 ../Chocolita/comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: ../Chocolita/comments.php:44 ../Chocolita/comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+# @ _s
+#: ../Chocolita/comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: ../Chocolita/comments.php:88
+msgid "Name"
+msgstr ""
+
+#: ../Chocolita/comments.php:94
+msgid "Email"
+msgstr ""
+
+#: ../Chocolita/comments.php:100
+msgid "Website"
+msgstr ""
+
+#: ../Chocolita/comments.php:108
+msgid "Comment"
+msgstr ""
+
+#: ../Chocolita/functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: ../Chocolita/functions.php:106
+msgid "About us section"
+msgstr ""
+
+#: ../Chocolita/functions.php:115
+msgid "Footer left column"
+msgstr ""
+
+#: ../Chocolita/functions.php:124
+msgid "Footer center column"
+msgstr ""
+
+#: ../Chocolita/functions.php:133
+msgid "Footer right column"
+msgstr ""
+
+#: ../Chocolita/functions.php:214
+msgid "Events"
+msgstr ""
+
+#: ../Chocolita/functions.php:215
+msgid "Event"
+msgstr ""
+
+#: ../Chocolita/functions.php:216 ../Chocolita/functions.php:217
+#: ../Chocolita/functions.php:219
+msgid "Add New Event"
+msgstr ""
+
+#: ../Chocolita/functions.php:218
+msgid "Edit Event"
+msgstr ""
+
+#: ../Chocolita/functions.php:220
+msgid "View Event"
+msgstr ""
+
+#: ../Chocolita/functions.php:221
+msgid "Search Event"
+msgstr ""
+
+#: ../Chocolita/functions.php:222
+msgid "No Events Found"
+msgstr ""
+
+#: ../Chocolita/functions.php:223
+msgid "No Events Found in Trash"
+msgstr ""
+
+#: ../Chocolita/functions.php:240
+msgid "Event Details"
+msgstr ""
+
+#: ../Chocolita/functions.php:256
+msgid "Country and city of the event"
+msgstr ""
+
+#: ../Chocolita/functions.php:258
+msgid "Event website URL"
+msgstr ""
+
+# @ _s
+#: ../Chocolita/header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../Chocolita/inc/template-tags.php:50 ../Chocolita/inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: ../Chocolita/inc/template-tags.php:71
+#: ../Chocolita/template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../Chocolita/index.php:60
+msgid "Previous events"
+msgstr ""
+
+#: ../Chocolita/portada-options.php:35 ../Chocolita/portada-options.php:51
+msgid "Front Page"
+msgstr ""
+
+#: ../Chocolita/portada-options.php:77
+msgid "Front Page Options"
+msgstr ""
+
+#: ../Chocolita/portada-options.php:84
+msgid "Event name"
+msgstr ""
+
+#: ../Chocolita/portada-options.php:92
+msgid "Event date"
+msgstr ""
+
+#: ../Chocolita/portada-options.php:100
+msgid "Event venue"
+msgstr ""
+
+#: ../Chocolita/portada-options.php:108
+msgid "Event description"
+msgstr ""
+
+#: ../Chocolita/portada-options.php:116
+msgid "Button text"
+msgstr ""
+
+#: ../Chocolita/portada-options.php:124
+msgid "Button URL"
+msgstr ""
+
+#: ../Chocolita/portada-options.php:165
+msgid "This is the configuration page for the main event on the Front Page."
+msgstr ""
+
+#: ../Chocolita/portada-options.php:174
+msgid "Enter the event short name. E.g. VIII ECSL 2016."
+msgstr ""
+
+#: ../Chocolita/portada-options.php:185
+msgid "Enter the date range. E.g. June 16-18, 2016."
+msgstr ""
+
+#: ../Chocolita/portada-options.php:196
+msgid "Enter the city and country. E.g. Managua, Nicaragua."
+msgstr ""
+
+#: ../Chocolita/portada-options.php:207
+msgid "Short description of the event. 150 characters or less."
+msgstr ""
+
+#: ../Chocolita/portada-options.php:218
+msgid "Call-to-action button text."
+msgstr ""
+
+#: ../Chocolita/portada-options.php:229
+msgid "Enter the event website URL."
+msgstr ""
+
+#: ../Chocolita/search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+# @ _s
+#: ../Chocolita/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+# @ _s
+#: ../Chocolita/template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ _s
+#: ../Chocolita/template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+# @ _s
+#: ../Chocolita/template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../Chocolita/template-parts/content-page.php:22
+#: ../Chocolita/template-parts/content.php:38
+msgid "Pages:"
+msgstr ""
+
+# @ _s
+#. translators: %s: Name of current post.
+#: ../Chocolita/template-parts/content.php:33
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""

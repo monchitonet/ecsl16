@@ -1,0 +1,133 @@
+.main-navigation {
+	clear: both;
+	display: block;
+	float: right;
+
+	ul {
+		display: none;
+		list-style: none;
+		margin: 0;
+		padding-left: 0;
+
+		ul {
+			box-shadow: 0 3px 3px rgba(0, 0, 0, 0.2);
+			position: absolute;
+			top: 1.5em;
+			left: -999em;
+			z-index: 99999;
+
+			ul {
+				left: -999em;
+				top: 0;
+			}
+
+			li {				
+				&:hover > ul,
+				&.focus > ul {
+					left: 100%;
+				}
+			}
+
+			a {
+				width: 200px;
+			}
+
+			:hover > a,
+			.focus > a {
+			}
+
+			a:hover,
+			a.focus {
+			}
+		}
+
+		li:hover > ul,
+		li.focus > ul {
+			left: auto;
+		}
+	}
+	li {
+		float: left;
+		position: relative;
+		padding: 1rem 0 0 1rem;
+
+		&:hover > a,
+		&.focus > a {
+		}
+	}
+	a {
+		display: block;
+		text-decoration: none;
+		text-transform: uppercase;
+		font-size: 1.5rem;
+	}
+
+	.current_page_item > a,
+	.current-menu-item > a,
+	.current_page_ancestor > a,
+	.current-menu-ancestor > a {
+	}
+}
+
+/* Small menu. */
+.menu-toggle,
+.main-navigation.toggled ul {
+	display: block;
+}
+
+button.menu-toggle {
+    position: fixed;
+    right: 1rem;
+    background: #00A7E1!important;
+    color: #FFF;
+    top: 1rem;
+}
+
+.main-navigation.toggled ul {
+    margin-top: 0.75rem;
+}
+
+.main-navigation.toggled ul li {
+    float: left;
+    padding: 0 0 0 1rem;
+}
+
+.main-navigation.toggled ul li a {
+    font-size: 1.25rem;
+}
+
+@media screen and (min-width: 70em) {
+	.menu-toggle {
+		display: none;
+	}
+	.main-navigation ul {
+		display: block;
+	}
+}
+
+@media screen and (max-width: 70em) {
+.column-6.text-right {
+    clear: both;
+	}
+}
+
+.comment-navigation,
+.posts-navigation,
+.post-navigation {
+
+	.site-main & {
+		margin: 0 0 1.5em;
+		overflow: hidden;
+	}
+
+	.nav-previous {
+		float: left;
+		width: 50%;
+	}
+
+	.nav-next {
+		float: right;
+		text-align: right;
+		width: 50%;
+	}
+}

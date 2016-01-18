@@ -1,0 +1,384 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Chocolita ES 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-01-18 12:53-0600\n"
+"PO-Revision-Date: 2016-01-18 12:59-0600\n"
+"Last-Translator: leogg <leo.telsen@gmail.com>\n"
+"Language-Team: Monchito <hola@monchito.net>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../Chocolita/404.php:16 ../ecsl16/404.php:16
+msgid "Error 404 - 'La sapa' is utterly confused"
+msgstr "Error 404 - La sapa está confundida"
+
+#: ../Chocolita/404.php:18 ../ecsl16/404.php:18
+msgid "We couldn't find the page you were looking for"
+msgstr "No pudimos encontrar la página que estabas buscando"
+
+#: ../Chocolita/404.php:19 ../ecsl16/404.php:19
+msgid "Maybe you should return to the"
+msgstr "¿Tal vez deberías regresar a la"
+
+#: ../Chocolita/404.php:19 ../ecsl16/404.php:19
+msgid "Home Page"
+msgstr "Portada"
+
+# @ _s
+#: ../Chocolita/comments.php:40 ../Chocolita/comments.php:61
+#: ../ecsl16/comments.php:40 ../ecsl16/comments.php:61
+msgid "Comment navigation"
+msgstr ""
+
+#: ../Chocolita/comments.php:43 ../Chocolita/comments.php:64
+#: ../ecsl16/comments.php:43 ../ecsl16/comments.php:64
+msgid "Older Comments"
+msgstr ""
+
+#: ../Chocolita/comments.php:44 ../Chocolita/comments.php:65
+#: ../ecsl16/comments.php:44 ../ecsl16/comments.php:65
+msgid "Newer Comments"
+msgstr ""
+
+# @ _s
+#: ../Chocolita/comments.php:78 ../ecsl16/comments.php:78
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: ../Chocolita/comments.php:88 ../ecsl16/comments.php:88
+msgid "Name"
+msgstr "Nombre"
+
+#: ../Chocolita/comments.php:94 ../ecsl16/comments.php:94
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: ../Chocolita/comments.php:100 ../ecsl16/comments.php:100
+msgid "Website"
+msgstr "Sitio web"
+
+#: ../Chocolita/comments.php:108 ../ecsl16/comments.php:108
+msgid "Comment"
+msgstr "Comentario"
+
+#: ../Chocolita/functions.php:50 ../ecsl16/functions.php:53
+msgid "Primary"
+msgstr "Primario"
+
+#: ../Chocolita/functions.php:106 ../ecsl16/functions.php:109
+msgid "About us section"
+msgstr "Sección Acerca de"
+
+#: ../Chocolita/functions.php:115 ../ecsl16/functions.php:118
+msgid "Footer left column"
+msgstr "Columna izquierda Footer"
+
+#: ../Chocolita/functions.php:124 ../ecsl16/functions.php:127
+msgid "Footer center column"
+msgstr "Columna centro Footer"
+
+#: ../Chocolita/functions.php:133 ../ecsl16/functions.php:136
+msgid "Footer right column"
+msgstr "Columna derecha Footer"
+
+#: ../Chocolita/functions.php:214
+msgid "Events"
+msgstr "Eventos"
+
+#: ../Chocolita/functions.php:215
+msgid "Event"
+msgstr "Evento"
+
+#: ../Chocolita/functions.php:216 ../Chocolita/functions.php:217
+#: ../Chocolita/functions.php:219
+msgid "Add New Event"
+msgstr "Añadir Nuevo Evento"
+
+#: ../Chocolita/functions.php:218
+msgid "Edit Event"
+msgstr "Editar Evento"
+
+#: ../Chocolita/functions.php:220
+msgid "View Event"
+msgstr "Ver Evento"
+
+#: ../Chocolita/functions.php:221
+msgid "Search Event"
+msgstr "Buscar Evento"
+
+#: ../Chocolita/functions.php:222
+msgid "No Events Found"
+msgstr "No se encontraron Eventos"
+
+#: ../Chocolita/functions.php:223
+msgid "No Events Found in Trash"
+msgstr "No se encontraron Eventos en papelera"
+
+#: ../Chocolita/functions.php:240
+msgid "Event Details"
+msgstr "Detalles del Evento"
+
+#: ../Chocolita/functions.php:256
+msgid "Country and city of the event"
+msgstr "País y ciudad del evento"
+
+#: ../Chocolita/functions.php:258
+msgid "Event website URL"
+msgstr "URL Sitio web del evento"
+
+# @ _s
+#: ../Chocolita/header.php:25 ../ecsl16/header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: ../Chocolita/inc/template-tags.php:50 ../Chocolita/inc/template-tags.php:56
+#: ../ecsl16/inc/template-tags.php:50 ../ecsl16/inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:52 ../ecsl16/inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:58 ../ecsl16/inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:64 ../ecsl16/inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:64 ../ecsl16/inc/template-tags.php:64
+msgid "1 Comment"
+msgstr ""
+
+#: ../Chocolita/inc/template-tags.php:64 ../ecsl16/inc/template-tags.php:64
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: ../Chocolita/inc/template-tags.php:71
+#: ../Chocolita/template-parts/content-page.php:33
+#: ../ecsl16/inc/template-tags.php:71
+#: ../ecsl16/template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../Chocolita/index.php:59
+msgid "Previous events"
+msgstr "Eventos anteriores"
+
+#: ../Chocolita/portada-options.php:35 ../Chocolita/portada-options.php:51
+#: ../ecsl16/portada-options.php:35 ../ecsl16/portada-options.php:51
+msgid "Front Page"
+msgstr "Portada"
+
+#: ../Chocolita/portada-options.php:77 ../ecsl16/portada-options.php:77
+msgid "Front Page Options"
+msgstr "Opciones de Portada"
+
+#: ../Chocolita/portada-options.php:84 ../ecsl16/portada-options.php:84
+msgid "Event name"
+msgstr "Nombre del evento"
+
+#: ../Chocolita/portada-options.php:92 ../ecsl16/portada-options.php:92
+msgid "Event date"
+msgstr "Fecha del evento"
+
+#: ../Chocolita/portada-options.php:100 ../ecsl16/portada-options.php:100
+msgid "Event venue"
+msgstr "Sede del evento"
+
+#: ../Chocolita/portada-options.php:108 ../ecsl16/portada-options.php:108
+msgid "Event description"
+msgstr "Descripción del evento"
+
+#: ../Chocolita/portada-options.php:116 ../ecsl16/portada-options.php:116
+msgid "Button text"
+msgstr "Texto del botón"
+
+#: ../Chocolita/portada-options.php:124 ../ecsl16/portada-options.php:124
+msgid "Button URL"
+msgstr "URL del botón"
+
+#: ../Chocolita/portada-options.php:165 ../ecsl16/portada-options.php:165
+msgid "This is the configuration page for the main event on the Front Page."
+msgstr ""
+"Esta es la página de configuración para el evento principal en Portada."
+
+#: ../Chocolita/portada-options.php:174 ../ecsl16/portada-options.php:174
+msgid "Enter the event short name. E.g. VIII ECSL 2016."
+msgstr "Ingresa las siglas del evento. P.ej. VIII ECSL 2016."
+
+#: ../Chocolita/portada-options.php:185 ../ecsl16/portada-options.php:185
+msgid "Enter the date range. E.g. June 16-18, 2016."
+msgstr "Ingresa el rango de fechas. P.ej. 16-18 de junio 2016."
+
+#: ../Chocolita/portada-options.php:196 ../ecsl16/portada-options.php:196
+msgid "Enter the city and country. E.g. Managua, Nicaragua."
+msgstr "Ingresa la ciudad y el país. P.ej. Managua, Nicaragua."
+
+#: ../Chocolita/portada-options.php:207 ../ecsl16/portada-options.php:207
+msgid "Short description of the event. 150 characters or less."
+msgstr "Breve descripción del evento. 150 carácteres o menos."
+
+#: ../Chocolita/portada-options.php:218 ../ecsl16/portada-options.php:218
+msgid "Call-to-action button text."
+msgstr "Texto del botón."
+
+#: ../Chocolita/portada-options.php:229 ../ecsl16/portada-options.php:229
+msgid "Enter the event website URL."
+msgstr "Ingresa la URL del sitio web del evento."
+
+#: ../Chocolita/search.php:20 ../ecsl16/search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+# @ _s
+#: ../Chocolita/template-parts/content-none.php:14
+#: ../ecsl16/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+# @ _s
+#: ../Chocolita/template-parts/content-none.php:21
+#: ../ecsl16/template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ _s
+#: ../Chocolita/template-parts/content-none.php:25
+#: ../ecsl16/template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+# @ _s
+#: ../Chocolita/template-parts/content-none.php:31
+#: ../ecsl16/template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../Chocolita/template-parts/content-page.php:22
+#: ../Chocolita/template-parts/content.php:38
+#: ../ecsl16/template-parts/content-page.php:22
+#: ../ecsl16/template-parts/content.php:38
+msgid "Pages:"
+msgstr ""
+
+# @ _s
+#. translators: %s: Name of current post.
+#: ../Chocolita/template-parts/content.php:33
+#: ../ecsl16/template-parts/content.php:33
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../ecsl16/functions.php:145
+msgid "Map infobox"
+msgstr "Información Caja de Mapa"
+
+#: ../ecsl16/functions.php:154
+msgid "General info 1"
+msgstr "Información general 1"
+
+#: ../ecsl16/functions.php:163
+msgid "General info 2"
+msgstr "Información general 2"
+
+#: ../ecsl16/functions.php:172
+msgid "General info 3"
+msgstr "Información general 3"
+
+#: ../ecsl16/functions.php:181
+msgid "General info 4"
+msgstr "Información general 4"
+
+#: ../ecsl16/functions.php:261
+msgid "Widget Image"
+msgstr ""
+
+#: ../ecsl16/functions.php:274
+msgid "Title:"
+msgstr "Título:"
+
+#: ../ecsl16/functions.php:279
+msgid "Image:"
+msgstr "Imagen"
+
+#: ../ecsl16/functions.php:359 ../ecsl16/index.php:120
+msgid "Sponsors"
+msgstr ""
+
+#: ../ecsl16/functions.php:360
+msgid "Sponsor"
+msgstr ""
+
+#: ../ecsl16/functions.php:361 ../ecsl16/functions.php:362
+#: ../ecsl16/functions.php:364
+msgid "Add New Sponsor"
+msgstr "Añadir Nuevo Sponsor"
+
+#: ../ecsl16/functions.php:363
+msgid "Edit Sponsor"
+msgstr ""
+
+#: ../ecsl16/functions.php:365
+msgid "View Sponsor"
+msgstr ""
+
+#: ../ecsl16/functions.php:366
+msgid "Search Sponsor"
+msgstr "Buscar Sponsor"
+
+#: ../ecsl16/functions.php:367
+msgid "No Sponsors Found"
+msgstr "No se encontraron Sponsors"
+
+#: ../ecsl16/functions.php:368
+msgid "No Sponsors Found in Trash"
+msgstr "No se encontraron Sponsors en papelera"
+
+#: ../ecsl16/functions.php:385
+msgid "Sponsor Details"
+msgstr "Detalles del Sponsor"
+
+#: ../ecsl16/functions.php:401
+msgid "Sponsor website URL"
+msgstr "URL Sitio web del sponsor"
+
+#: ../ecsl16/index.php:70
+msgid "News"
+msgstr "Noticias"
+
+#: ../ecsl16/index.php:79
+msgid "Published by: "
+msgstr "Publicado por: "
+
+#: ../ecsl16/index.php:96
+msgid "General Information"
+msgstr "Información general"
+
+#: ../ecsl16/page-sponsors.php:49
+msgid "Thanks to our Sponsors!"
+msgstr "¡Gracias a nuestros Patrocinadores!"
