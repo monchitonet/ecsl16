@@ -47,7 +47,7 @@ $ bower install jquery
 
 ```
 $ cd /tu-directorio-de-wordpress/wp-content/themes/
-$ git clone git@github.com:monchitonet/Chocolita.git
+$ git clone git@github.com:monchitonet/ecsl16.git
 ```
 
 Cambia la línea 24 del archivo `gulpfile.js` con los datos de tu servidor. Ingresa a WordPress y activa el tema.
