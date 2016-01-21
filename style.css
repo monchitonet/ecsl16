@@ -1,10 +1,10 @@
 @charset "UTF-8";
 /*!
-Theme Name: ECSL16
-Theme URI: https://github.com/monchitonet/ecsl16
+Theme Name: Chocolita
+Theme URI: http://underscores.me/
 Author: Monchito
 Author URI: http://www.monchi.to
-Description: ECSL16 es un tema para WordPress hecho con Chocolita para el VIII Encuentro Centroamericano de Software Libre 2016.
+Description: Chocolita es un tema base para WordPress basado en Underscores con Sass y una configuración básica de Gulp.
 Version: 1.0.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -891,6 +891,13 @@ footer#colophon {
   .sponsors-block .column-3.text-center,
   .about-us .column-3.text-center {
     width: 100%; } }
+
+@media screen and (max-width: 355px) {
+  header#masthead {
+    min-height: 72.375px; }
+  .main-event-button {
+    width: 100%;
+    padding: 0.5em 10%; } }
 
 /*--------------------------------------------------------------
 ## Columns

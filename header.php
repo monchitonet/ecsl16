@@ -28,7 +28,7 @@
 		<div class="row">
 			
 			<div class="columns column-6 site-branding">
-				<a href="<?php echo site_url(); ?>"><img src="http://localhost/~leogg/encuentro/wp-content/themes/ecsl16/img/ecsl16logo.png" /></a>
+				<a href="<?php echo site_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/img/ecsl16logo.png" /></a> <!-- FIXME -->
 			</div><!-- .site-branding -->
 
 			<div class="columns column-6 text-right">

@@ -297,3 +297,13 @@ footer#colophon {
 		width: 100%;
 	}
 }
+
+@media screen and (max-width: 355px) {
+	header#masthead {
+		min-height: 72.375px;
+	}
+	.main-event-button {
+		width: 100%;
+		padding: 0.5em 10%;
+	}
+}
